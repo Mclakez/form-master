@@ -6,22 +6,22 @@
  
  @font-face  {
  				font-family: 'bold';
- 				src: url('font/Poppins/Poppins-Bold.ttf');
+ 				src: url('Poppins-Bold.ttf');
  }
  
  @font-face  {
  				font-family: 'regular';
- 				src: url('font/Poppins/Poppins-Regular.ttf');
+ 				src: url('Poppins-Regular.ttf');
  }
  
  @font-face  {
  				font-family: 'light';
- 				src: url('font/Poppins/Poppins-Light.ttf');
+ 				src: url('Poppins-Light.ttf');
  }
  
  @font-face  {
  				font-family: 'medium';
- 				src: url('font/Poppins/Poppins-Medium.ttf');
+ 				src: url('Poppins-Medium.ttf');
  }
  
  .wrapper {
